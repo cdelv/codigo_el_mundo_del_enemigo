@@ -5,7 +5,7 @@ json_file_path = 'Linea_del_tiempo_ME.json'
 
 category_mapping = {
     "951433": "Escala Internacional",
-    "951431": "Escala Nacional",
+    "951431": "Escala Local",
     "951432": "Escala Regional",
 }
 
